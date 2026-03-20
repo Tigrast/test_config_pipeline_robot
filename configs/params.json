@@ -1,6 +1,6 @@
 {
     "[Block Diagram].[ISG__Autonox_Delta_One].[RobotController]": {
-        "kanal_Num": "None",
+        "kanal_Num": "Kanal_1",
         "Block_Path_Virtuos": "[Block Diagram].[ISG__Autonox_Delta_One].[RobotController]",
         "Axis_Param": {
             "Axis_1.ratio": "PI/180",
